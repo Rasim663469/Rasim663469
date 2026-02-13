@@ -1,14 +1,14 @@
-# 👋 Salut, je suis Rasim !
+# 👋 Hi, I'm Rasim!
 
-## 🎓 À propos
+## 🎓 About Me
 
-Élève ingénieur en 4e année à **Polytech Montpellier** - Spécialité DaMS (Data Science, Management & Software Architecture)
+**4th-year Engineering Student** at Polytech Montpellier - DaMS Program (Data Science, Management & Software Architecture)
 
-🔍 Recherche un **contrat de professionnalisation** pour 2026-2027
+🔍 Currently seeking a **professional apprenticeship contract** for 2026-2027
 
-## 💻 Stack Technique
+## 💻 Tech Stack
 
-### Langages de programmation
+### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
@@ -26,75 +26,80 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### Domaines d'expertise
+### Areas of Expertise
 
-**💻 Développement logiciel**  
-Programmation orientée objet • Conception logicielle • Architecture • Tests & qualité
+**💻 Software Development**  
+Object-Oriented Programming • Software Design • Architecture • Testing & Quality Assurance
 
-**🧮 Algorithmique & Structures de données**  
-Graphes • Types abstraits • Analyse de complexité • Résolution de problèmes
+**🧮 Algorithms & Data Structures**  
+Graph Theory • Abstract Data Types • Complexity Analysis • Problem Solving
 
-**🌐 Web & Applications**  
-HTML/CSS • Angular • Architectures distribuées • Applications web interactives
+**🌐 Web & Application Development**  
+HTML/CSS • Angular • Distributed Architectures • Interactive Web Applications
 
-**🗄️ Bases de données**  
-SQL • PostgreSQL • Oracle • NoSQL • Modélisation de SI
+**🗄️ Databases & Information Systems**  
+SQL • PostgreSQL • Oracle • NoSQL • Database Modeling • System Design
 
-**🐧 Systèmes & Bas niveau**  
-Linux • Shell/CLI • Architecture système • Programmation système en C
+**🐧 Systems & Low-Level Programming**  
+Linux • Shell/CLI • System Architecture • Operating Systems • System Programming in C
 
-**🤖 Data Science & IA**  
-Machine Learning • Deep Learning • IA générative • R • Statistiques • Optimisation
+**🤖 Data Science & AI**  
+Machine Learning • Deep Learning • Generative AI • R • Statistics • Optimization
 
-**🔬 Informatique Quantique**  
-Formation IBM avec Jean-Michel Torres • Calcul quantique • Bases théoriques
+**🔬 Quantum Computing**  
+IBM Training with Jean-Michel Torres • Quantum Computing Fundamentals • Theoretical Foundations
 
-**📊 Management & Gestion**  
-Gestion de projet • Finance d'entreprise • Théorie des organisations
+**📊 Management & Business**  
+Project Management • Corporate Finance • Organizational Theory
 
-## 🚀 Portfolio de Projets
+## 🚀 Project Portfolio
 
-### 🤖 Intelligence Artificielle & Data Science
+### 🤖 Artificial Intelligence & Data Science
 
-**Orchestration d'agents IA pour traitement d'images** *(En cours)*  
-Architecture modulaire orchestrant plusieurs modèles spécialisés (HuggingGPT/LLM) pour automatiser un pipeline de traitement d'images  
-`Python` `LLM` `HuggingFace` `IA`
+**AI Agents Orchestration for Image Processing** *(In Progress)*  
+Modular architecture orchestrating multiple specialized models (HuggingGPT/LLM) to automate an image processing pipeline  
+`Python` `LLM` `HuggingFace` `AI`
 
-**Projet Data - Rapport des Français aux médias**  
-Préparation et analyse de données, création d'indicateurs et application de méthodes de statistical learning et machine learning sur un entrepôt de données  
+**Data Project - French Media Consumption Analysis**  
+Data preparation and analysis, indicator creation, and application of statistical learning and machine learning methods on a data warehouse  
 `Python` `R` `Machine Learning` `Data Warehouse` `SQL`
 
-### 💼 Développement Web & Applications
+### 💼 Web Development & Applications
 
-**Application web de gestion de workflows**  
-Application de suivi des tâches, utilisateurs et statuts avec conteneurisation Docker pour un déploiement reproductible  
+**Workflow Management Web Application**  
+Task, user, and status tracking application with Docker containerization for reproducible deployment  
 `Angular` `TypeScript` `Docker` `Docker Compose`
 
-**Site web statique**  
-Création d'un site vitrine responsive avec structure HTML claire et mise en page CSS  
+**Static Website**  
+Responsive showcase website with clean HTML structure and CSS layout  
 `HTML` `CSS` `Responsive Design`
 
-### 🏗️ Ingénierie Logicielle
+### 🏗️ Software Engineering
 
-**Application de gestion de clubs sportifs**  
-Conception d'une architecture en couches (Controller, Facade, DAO, UI) pour structurer les responsabilités et la maintenabilité  
-`Java` `MVC` `Architecture en couches` `Patterns de conception`
+**Sports Club Management Application**  
+Layered architecture design (Controller, Facade, DAO, UI) to structure responsibilities and maintainability  
+`Java` `MVC` `Layered Architecture` `Design Patterns`
 
 ### 🎮 Game Development
 
-**Jeu 2D type Space Invaders**  
-Implémentation d'un jeu modulaire avec gestion des collisions, événements et logique orientée objet  
-`Python` `Pygame` `POO`
+**2D Space Invaders Game**  
+Modular game implementation with collision detection, event handling, and object-oriented logic  
+`Python` `Pygame` `OOP`
 
-**Jeu de cartes Dekale**  
-Développement de la logique métier et des interactions d'interface pour un jeu mobile interactif  
+**Dekale Card Game**  
+Development of business logic and interface interactions for an interactive mobile game  
 `Swift` `iOS` `Mobile Development`
 
-### 🌐 Systèmes & Réseaux
+### 🌐 Systems & Networks
 
-**Chatroom FAR**  
-Réalisation d'une chatroom terminal multi-utilisateurs inspirée d'IRC avec gestion des messages  
-`C` `Programmation système` `Réseaux` `Protocoles`
+**FAR Chatroom**  
+Multi-user terminal chatroom inspired by IRC with message management  
+`C` `System Programming` `Networking` `Protocols`
+
+## 🌍 International Experience
+
+📍 **Upcoming Internship at SeaQuantum** - Kuala Lumpur, Malaysia (April - August 2026)  
+Diamond-based quantum computing company
 
 ## 📫 Contact
 
@@ -104,4 +109,4 @@ Réalisation d'une chatroom terminal multi-utilisateurs inspirée d'IRC avec ges
 
 ---
 
-💡 *Explorez mes repositories pour découvrir le code source de ces projets !*
+💡 *Explore my repositories to discover the source code of these projects!*
