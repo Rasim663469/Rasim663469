@@ -52,13 +52,49 @@ Formation IBM avec Jean-Michel Torres • Calcul quantique • Bases théoriques
 **📊 Management & Gestion**  
 Gestion de projet • Finance d'entreprise • Théorie des organisations
 
-## 🚀 Projets en vedette
+## 🚀 Portfolio de Projets
 
-🤖 **Orchestration d'agents IA** - Pipeline automatisé de traitement d'images avec LLM  
-💼 **Application de gestion de workflows** - Angular + Docker  
-📊 **Analyse ML des médias français** - Data Science & Machine Learning  
-🏃 **Gestion de clubs sportifs** - Architecture Java en couches (MVC, DAO)  
-🎮 **Jeux & Applications** - Python, Swift, C
+### 🤖 Intelligence Artificielle & Data Science
+
+**Orchestration d'agents IA pour traitement d'images** *(En cours)*  
+Architecture modulaire orchestrant plusieurs modèles spécialisés (HuggingGPT/LLM) pour automatiser un pipeline de traitement d'images  
+`Python` `LLM` `HuggingFace` `IA`
+
+**Projet Data - Rapport des Français aux médias**  
+Préparation et analyse de données, création d'indicateurs et application de méthodes de statistical learning et machine learning sur un entrepôt de données  
+`Python` `R` `Machine Learning` `Data Warehouse` `SQL`
+
+### 💼 Développement Web & Applications
+
+**Application web de gestion de workflows**  
+Application de suivi des tâches, utilisateurs et statuts avec conteneurisation Docker pour un déploiement reproductible  
+`Angular` `TypeScript` `Docker` `Docker Compose`
+
+**Site web statique**  
+Création d'un site vitrine responsive avec structure HTML claire et mise en page CSS  
+`HTML` `CSS` `Responsive Design`
+
+### 🏗️ Ingénierie Logicielle
+
+**Application de gestion de clubs sportifs**  
+Conception d'une architecture en couches (Controller, Facade, DAO, UI) pour structurer les responsabilités et la maintenabilité  
+`Java` `MVC` `Architecture en couches` `Patterns de conception`
+
+### 🎮 Game Development
+
+**Jeu 2D type Space Invaders**  
+Implémentation d'un jeu modulaire avec gestion des collisions, événements et logique orientée objet  
+`Python` `Pygame` `POO`
+
+**Jeu de cartes Dekale**  
+Développement de la logique métier et des interactions d'interface pour un jeu mobile interactif  
+`Swift` `iOS` `Mobile Development`
+
+### 🌐 Systèmes & Réseaux
+
+**Chatroom FAR**  
+Réalisation d'une chatroom terminal multi-utilisateurs inspirée d'IRC avec gestion des messages  
+`C` `Programmation système` `Réseaux` `Protocoles`
 
 ## 📫 Contact
 
@@ -68,4 +104,4 @@ Gestion de projet • Finance d'entreprise • Théorie des organisations
 
 ---
 
-💡 *Explorez mes repositories pour découvrir mes projets !*
+💡 *Explorez mes repositories pour découvrir le code source de ces projets !*
