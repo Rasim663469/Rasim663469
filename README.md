@@ -10,7 +10,6 @@
 
 ![Alternance Calendar](./assets/calendrier-alternance.jpg)
 
-*Flexible alternating schedule - highly advantageous for companies*
 
 ## 💻 Tech Stack
 
