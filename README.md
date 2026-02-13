@@ -8,7 +8,7 @@
 
 ## 📅 Apprenticeship Schedule 2026-2027
 
-![Alternance Calendar](./assets/calendrier-alternance.png)
+![Alternance Calendar](./assets/calendrier-alternance.jpg)
 
 *Flexible alternating schedule - highly advantageous for companies*
 
