@@ -6,6 +6,12 @@
 
 🔍 Currently seeking a **professional apprenticeship contract** for 2026-2027
 
+## 📅 Apprenticeship Schedule 2026-2027
+
+![Alternance Calendar](./assets/calendrier-alternance.png)
+
+*Flexible alternating schedule - highly advantageous for companies*
+
 ## 💻 Tech Stack
 
 ### Programming Languages
