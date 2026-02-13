@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**Rasim663469/Rasim663469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Salut, je suis Rasim !
+🎓 À propos
+Élève ingénieur en 4e année à Polytech Montpellier - Spécialité DaMS (Data Science, Management & Software Architecture)
+🔍 Recherche un contrat de professionnalisation pour 2026-2027
+💻 Technologies
+Langages : Python • Java • C • JavaScript/TypeScript • Swift • Rust
+Frameworks : Angular • Flask • Docker
+Domaines : IA & Machine Learning • Développement Full-Stack • Informatique Quantique
+🚀 Projets en vedette
+🤖 Orchestration d'agents IA - Pipeline automatisé de traitement d'images avec LLM
+💼 Application de gestion de workflows - Angular + Docker
+📊 Analyse ML des médias français - Data Science & Machine Learning
+📫 Contact
+📧 rasim.erben@etu.umontpellier.fr
+💼 LinkedIn
+📍 Montpellier, France
