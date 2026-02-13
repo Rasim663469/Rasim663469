@@ -109,7 +109,7 @@ Diamond-based quantum computing company
 ## 📫 Contact
 
 📧 rasim.erben@etu.umontpellier.fr  
-💼 [LinkedIn](https://linkedin.com/in/rasim-erben)  
+💼 [LinkedIn](https://www.linkedin.com/in/rasim-erben-55a952298/)  
 📍 Montpellier, France
 
 ---
